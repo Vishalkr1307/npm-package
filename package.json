@@ -1,12 +1,12 @@
 {
-  "name": "npm-detaail",
+  "name": "@vishal1307/npm-detaail",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "prestart":"helloworld!",
+    "prestart": "helloworld!",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
